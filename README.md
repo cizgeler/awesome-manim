@@ -43,7 +43,7 @@
   - [Bilibili](https://space.bilibili.com/289813724)
   - [Github](https://github.com/chilaochen/manim_projects)
 - Çizgeler (Turkish)
-  - [Youtube](https://www.youtube.com/@cizgeler)
+  - [Youtube](https://www.youtube.com/@cizgeler](https://www.youtube.com/channel/UCgDlaO17Z7me_R2uaus_o_A)](https://www.youtube.com/channel/UCgDlaO17Z7me_R2uaus_o_A))
   - [Website](https://cizgeler.github.io/)
   - [Github](https://github.com/cizgeler)
   - [Twitter](https://twitter.com/cizgeler)

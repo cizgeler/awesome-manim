@@ -8,6 +8,11 @@
 - Act of Learning
   - [YouTube](https://www.youtube.com/channel/UCofF7Mp_VtoOZ9rhl_ueX7g)
   - [Twitter](https://twitter.com/muthuveerappanr)
+- ad ASTRA Akademi 
+  - [YouTube](https://www.youtube.com/channel/UCaMJgntC7HcV1doiYN8Bdog)
+  - [İnstagram](https://www.instagram.com/akademiadastra)
+  - [TikTok](https://www.tiktok.com/@adastraakademi)
+  - [Twitter](https://x.com/adastraakademi)
 - Againzeenox
   - [YouTube](https://youtube.com/@Mayankk20007)
   - [GitHub](https://github.com/againzeenox)
@@ -47,6 +52,13 @@
   - [Website](https://cizgeler.github.io/)
   - [Github](https://github.com/cizgeler)
   - [Twitter](https://twitter.com/cizgeler)
+- ClassicIFS
+  - [YouTube](https://www.youtube.com/channel/UCAHS1BhH_B1NNUF_nltCLCA)
+- Code
+  - [Youtube](https://www.youtube.com/@code-crash-cry)
+- Dan4Life
+  - [Youtube](https://www.youtube.com/@dan4life)
+  - [Github](https://github.com/Dan4Life)
 - Edward Mukan
   - [YouTube](https://www.youtube.com/channel/UC_GQSq-JQNBN60xaYFMBfkg)
   - [Website](https://emukans.github.io/)
@@ -86,6 +98,9 @@
 - Manim Kindergarten
   - [YouTube](https://www.youtube.com/channel/UCk1nsj8AvzuSVL_I4JieVNQ)
   - [GitHub](https://github.com/manim-kindergarten)
+- Mate con Choripán (Spanish)
+  - [Youtube](https://www.youtube.com/@mate_con_choripan)
+  - [Instagram](https://www.instagram.com/mate_con_choripan/)
 - Mates con Chile
   - [YouTube](https://www.youtube.com/channel/UC5NyuhBwsTO7Q3s2Qe7lB6A)
 - MathemARTics 
@@ -110,9 +125,14 @@
   - [GitHub](https://github.com/mashaan14/manim)
   - [Website](https://mashaan14.github.io/mashaan/manim.html)
   - [YouTube](https://www.youtube.com/@mashaan14)
+- Matheart (數心) (in Chinese)
+  - [Github](https://github.com/Matheart)
+  - [Bilibili](https://space.bilibili.com/346660989)
 - Nathaniel Johnston
   - [Website](https://njohnston.ca/)
   - [YouTube](https://www.youtube.com/@NathanielMath)
+- Nucleus
+  - [YouTube](https://www.youtube.com/@Nucleus-ib9uy)
 - Open Engineering
   - [GitHub](https://github.com/0xCoto/OpenEngineering)
   - [YouTube](https://www.youtube.com/channel/UCfEiVXhy9rj4wdqpD_Il6Zg)
@@ -143,6 +163,9 @@
 - Spectral Collective
   - [GitHub](https://github.com/vilasopher/manim)
   - [YouTube](https://www.youtube.com/channel/UC3O_3ANkml4_3wSK1yPG5DQ)
+- Svetlana Kutuzova (Deep Learning That Works)
+  - [Youtube](https://www.youtube.com/channel/UCuE0T28t_7cW_9HcEqRt9qA)
+  - [GitHub](https://github.com/sgalkina/animations)
 - Theorem of Beethoven
   - [YouTube](https://www.youtube.com/channel/UCxiWCEdx7aY88bSEUgLOC6A)
 - TheSiGuy
@@ -161,6 +184,9 @@
 - sudgylacmoe
   - [YouTube](https://www.youtube.com/channel/UCEo_JfTH_9FK-7k9-mAWJkQ)
   - [Patreon](https://www.patreon.com/sudgylacmoe)
+- Varniex
+  - [YouTube](https://www.youtube.com/@Varniex)
+  - [Twitter](https://x.com/Varniex)
 - vcubingx
   - [YouTube](https://www.youtube.com/channel/UCv0nF8zWevEsSVcmz6mlw6A)
   - [Website](https://vcubingx.com/)
@@ -169,6 +195,9 @@
   - [Twitter](https://twitter.com/vcubingx)
   - [Instagram](https://www.instagram.com/vcubingx/)
   - [Twitch](https://www.twitch.tv/vcubingx)
+- Very Normal
+  - [YouTube](https://www.youtube.com/@very-normal)
+  - [Substack](https://verynormal.substack.com/)
 - Visually Explained (Bachir El Khadir)
   - [YouTube](https://www.youtube.com/channel/UCoTo2gtN527CXhe7jbP6hUg)
   - [Twitter](https://twitter.com/BachirElKhadir)
@@ -178,6 +207,9 @@
 - WuDianQiBian (五点七边)
   - [YouTube](https://www.youtube.com/channel/UCz_F7yBzxTqTEG-GvhKsCsw)
   - [Bilibili](https://space.bilibili.com/643755221)
+- zkMarek
+  - [Youtube](https://www.youtube.com/@zkmarek)
+  - [Twitter](https://twitter.com/zkmarek)
 - zhuli
   - [YouTube](https://www.youtube.com/channel/UCn63G5jopR5Lq_cEiNNc9bA)
  
